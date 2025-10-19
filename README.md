@@ -94,7 +94,7 @@ Timing verification was performed using an **Arduino as a measurement tool**, co
 ---
 
 ## Full Documentation
-📘 [Read the full engineering article →]([https://ronelherzass.com/projects/safe-lock/](https://ronelherzass.com/post.html?lang=en&slug=safe-lock-project))  
+📘 [Read the full engineering article →]([https://ronelherzass.com/post.html?lang=en&slug=safe-lock-project])  
 Includes full schematics, background theory, and timing analysis.
 
 ---
