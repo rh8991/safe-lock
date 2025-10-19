@@ -1,7 +1,7 @@
 # Digital Safe Lock 🔐  
 *A pure-logic electronic safe system built entirely without microcontrollers.*
 
-![PCB Render](media/pcb-3d.png)
+![Breadboard prototype](media/lock_sys.png)
 
 ---
 
