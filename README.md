@@ -1,3 +1,7 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Made With: Pure Logic](https://img.shields.io/badge/Built%20With-Logic%20Gates-orange.svg)](#)
+[![University Project](https://img.shields.io/badge/Ariel%20University-Pre--Capstone-green.svg)](#)
+
 # Digital Safe Lock 🔐  
 *A pure-logic electronic safe system built entirely without microcontrollers.*
 
